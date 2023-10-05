@@ -9,4 +9,13 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  background-color: grey;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+p {
+  color: rgb(85, 85, 85);
 }
