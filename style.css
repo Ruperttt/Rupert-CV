@@ -19,3 +19,15 @@ html{
 p {
   color: rgb(85, 85, 85);
 }
+
+/* Transition */
+
+a, .btn {
+    transition: all 300ms ease;
+}
+
+/* Desktop Navigation */
+
+nav, .nav-links{
+    display: flex;
+}
